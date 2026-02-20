@@ -1,0 +1,36 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAABVVVVVVVVVVVVVVVVVVVVV1VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVXVVVVVVVVVVdVVVVVVVVVV1VVQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA4MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA2MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAxMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA1MDEwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDUwMTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNTAyMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzA0MjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.greenOuterWest0",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterEast1",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.greenOuterNorth1",
+            "sprites.dungeon.greenOuterNorthWest",
+            "myTiles.tile1"
+        ],
+        "displayName": "level0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
