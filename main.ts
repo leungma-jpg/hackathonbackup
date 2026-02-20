@@ -13,10 +13,14 @@ game.onUpdateInterval(1800, function () {
     valentine.send_valentine(assets.image`cupid hearts`, 5, assets.image`arrow`)
 })
 game.onUpdateInterval(100, function () {
+    let mySprite: Sprite = null
     valentine.set_win_lose_size(120, 0)
     game.setGameOverMessage(false, "GAME OVER!")
     game.setGameOverMessage(true, "YOU WIN!")
-    if (true) {
-    	
+    if (mySprite.width < 6) {
+        game.gameOver(false)
+    }
+    if (mySprite.width > 120) {
+        game.gameOver(true)
     }
 })
